@@ -1,0 +1,47 @@
+body {
+    display: flex;
+    flex-flow: column wrap;
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ff135d22-b75f-453c-b79c-db502d61e86a/d9zu461-2f12d6f2-88a4-4ce9-a6f8-caba9454893c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZmMTM1ZDIyLWI3NWYtNDUzYy1iNzljLWRiNTAyZDYxZTg2YVwvZDl6dTQ2MS0yZjEyZDZmMi04OGE0LTRjZTktYTZmOC1jYWJhOTQ1NDg5M2MuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xtJVlBz1eBQeeq0MnlS04PfYTI3M46dQF-MBvFKlW1g);
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: #867A28;
+    font-size: 1em;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+img {
+    height: 33%;
+    width: 50%;
+    margin-right: 35%;
+}
+label {
+    font-size: 2em;
+    margin-right: 35%;
+}
+a {
+    color: #867A28;
+}
+.navigation-bar {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    background-color: #4B2886;
+    border-radius: 0.2rem;
+}
+#page-1 {
+    text-decoration: none;
+}
+#page-2 {
+    text-decoration: none;
+}
+#page-3 {
+    text-decoration: none;
+}
+#page-4 {
+    text-decoration: none;
+}
